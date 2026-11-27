@@ -13,7 +13,7 @@
 </div>
 
 ---
-## 01 — Beyond the Code
+## 01 / About Me
 
 ### Curiosity into code.
 
@@ -112,8 +112,7 @@ A cinema-inspired web experience.
 
 ---
 
-## ◈ 04 // CONTRIBUTION METROPOLIS
-
+## 04 / Contributions in 3D
 <div align="center">
 
 <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
@@ -122,7 +121,7 @@ A cinema-inspired web experience.
 
 ---
 
-## ◈ 05 // PLAYER STATISTICS
+## 05 / GitHub Insights
 
 <div align="center">
 
@@ -138,7 +137,7 @@ A cinema-inspired web experience.
 
 ---
 
-## ◈ 06 // LEETCODE BATTLE ARENA
+## 06 / Problem Solving
 
 <div align="center">
 
@@ -148,17 +147,18 @@ A cinema-inspired web experience.
 
 ---
 
-## ◈ 07 // ACTIVITY RADAR
+## 07 / Coding Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam0001-del&bg_color=0D0D0D&color=FF7100&line=FF7100&point=FFFFFF&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam0001-del&theme=github-compact&hide_border=true&color=ff7100&line=ff7100&point=ff7100"/>
 
 </div>
 
 ---
+---
 
-## ◈ 08 // CONTRIBUTION SNAKE
+## 08 / Contribution Journey
 
 <div align="center">
 
