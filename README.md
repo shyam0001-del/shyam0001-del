@@ -56,75 +56,59 @@ AI, 3D Modelling & Simulation
 
 ---
 
-## ◈ 02 // INVENTORY — TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,blender,vscode&theme=dark&perline=8"/>
-
-<br/><br/>
-
-<img width="90" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript"/>
-<img width="90" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub"/>
-<img width="90" src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API"/>
-
-</div>
-
----
-
-## ◈ 03 // MISSION ARCHIVE
-
-<div align="center">
+## 02 / Tech Stack
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎮 CAMPUS 3D
-
-Exploring immersive virtual campus simulation and interactive 3D environments.
-
-`3D` `Simulation` `Blender`
-
-</td>
-<td width="50%">
-
-### 🧠 MENTAL HEALTH
-
-A web application focused on mental health and emotional well-being.
-
-[Explore Repository](https://github.com/shyam0001-del/mental-health-webApp)
-
-`JavaScript` `Web App`
-
-</td>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,js&theme=dark"/></td>
 </tr>
-
 <tr>
-<td width="50%">
-
-### 🎬 MY THEATRE
-
-A theatre-inspired web experience.
-
-[Explore Repository](https://github.com/shyam0001-del/My-theatre)
-
-`CSS` `Web Development`
-
-</td>
-<td width="50%">
-
-### ⚔️ PROBLEM SOLVING
-
-Exploring algorithms, data structures and competitive programming.
-
-`Java` `DSA` `Algorithms`
-
-</td>
+<td><b>Web Development</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Development Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Creative Technology</b></td>
+<td><img src="https://skillicons.dev/icons?i=blender&theme=dark"/></td>
 </tr>
 </table>
 
-</div>
+---
+
+## 03 / Selected Projects
+
+A collection of things I've built and explored.
+
+### 01 — Virtual Campus Experience
+`3D Development` `Blender` `Simulation`
+
+Exploring interactive campus environments through
+3D modelling and simulation.
+
+---
+
+### 02 — Mental Health & Well-being
+`JavaScript` `Web Development`
+
+A web application focused on mental health
+and emotional well-being.
+
+[View Project →](https://github.com/shyam0001-del/mental-health-webApp)
+
+---
+
+### 03 — My Theatre
+`CSS` `Frontend Development`
+
+A cinema-inspired web experience.
+
+[View Project →](https://github.com/shyam0001-del/My-theatre)
+
+---
 
 ---
 
