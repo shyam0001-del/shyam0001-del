@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:FF7100,100:0D0D0D&height=250&section=header&text=SHYAM%20PRASAD&fontSize=55&fontColor=FFFFFF&animation=fadeIn&stroke=FF7100&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:241205,100:080808&height=220&section=header&text=SHYAM%20PRASAD&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=18&descAlignY=65&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF7100&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+PROFILE...;WELCOME+TO+MY+DIGITAL+UNIVERSE;JAVA+%7C+DSA+%7C+3D+DEVELOPMENT;THE+NEXT+LEVEL+IS+LOADING..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7100&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+Digital+Universe;Java+%7C+DSA+%7C+3D+Development;Turning+Ideas+Into+Reality"/>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF7100?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PLAYER-001-111111?style=for-the-badge"/>
