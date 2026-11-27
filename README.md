@@ -13,34 +13,46 @@
 </div>
 
 ---
+## 01 — Beyond the Code
 
-## ◈ 01 // PLAYER PROFILE
+### Curiosity into code.
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm a student developer who enjoys solving problems,
+experimenting with technology and building things
+that go beyond conventional applications.
 
-```java
-class Developer {
-    String name = "Shyam Prasad";
-    String role = "Student Developer";
+Currently exploring software development, artificial
+intelligence and immersive 3D experiences.
 
-    String[] interests = {
-        "Java & DSA",
-        "Web Development",
-        "3D Development using AI",
-        "Artificial Intelligence"
-    };
+<br>
 
-    String mission = "Turning ideas into innovations";
-    boolean keepLearning = true;
-}
-```
+<table>
+<tr>
+<td width="33%">
 
-- ⚡ Exploring new technologies
-- 🎮 Building immersive experiences
-- 🧠 Improving problem-solving skills
-- 🌐 Turning ideas into innovations with learnings
+**01 / LOGIC**
 
-<br clear="both"/>
+Java, Data Structures & Algorithms
+
+</td>
+<td width="33%">
+
+**02 / BUILD**
+
+Web Development & Applications
+
+</td>
+<td width="33%">
+
+**03 / EXPLORE**
+
+AI, 3D Modelling & Simulation
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
