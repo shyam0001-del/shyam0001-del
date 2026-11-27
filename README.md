@@ -26,11 +26,11 @@ class Developer {
     String[] interests = {
         "Java & DSA",
         "Web Development",
-        "3D Development",
+        "3D Development using AI",
         "Artificial Intelligence"
     };
 
-    String mission = "Turn ideas into reality";
+    String mission = "Turning ideas into innovations";
     boolean keepLearning = true;
 }
 ```
@@ -38,7 +38,7 @@ class Developer {
 - ⚡ Exploring new technologies
 - 🎮 Building immersive experiences
 - 🧠 Improving problem-solving skills
-- 🌐 Turning ideas into applications
+- 🌐 Turning ideas into innovations with learnings
 
 <br clear="both"/>
 
