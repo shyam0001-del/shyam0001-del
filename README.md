@@ -147,18 +147,7 @@ A cinema-inspired web experience.
 
 ---
 
-## 07 / Coding Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam0001-del&theme=github-compact&hide_border=true&color=ff7100&line=ff7100&point=ff7100"/>
-
-</div>
-
----
----
-
-## 08 / Contribution Journey
+## 07 / Contribution Journey
 
 <div align="center">
 
